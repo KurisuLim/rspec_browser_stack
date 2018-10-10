@@ -1,6 +1,6 @@
 server: "hub-cloud.browserstack.com"
-user: "christopherlim5"
-key: "WqvvGLWcneotxHJzwvKy"
+user: ""
+key: ""
 
 common_caps:
   "build": "rspec-browserstack"
