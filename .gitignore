@@ -1,4 +1,4 @@
 local.log
-config/local.env.yml
-config/parallel.config.yml
-config/single.config.yml
+local.env.yml
+parallel.config.yml
+single.config.yml
